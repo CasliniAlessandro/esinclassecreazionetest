@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classesingola.cs" />
+    <Compile Include="classemultipla.cs" />
     <Compile Include="classedomanda.cs" />
     <Compile Include="classetest.cs" />
     <Compile Include="Componente.cs" />
