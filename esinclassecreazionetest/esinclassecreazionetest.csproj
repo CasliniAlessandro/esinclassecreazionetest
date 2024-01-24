@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classeverofalso.cs" />
     <Compile Include="classesingola.cs" />
     <Compile Include="classemultipla.cs" />
     <Compile Include="classedomanda.cs" />
